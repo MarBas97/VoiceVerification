@@ -1,0 +1,66 @@
+C:\Users\DominatorMK\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe.config
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe.config
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.pdb
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\bin\Debug\NAudio.dll
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\bin\Debug\NAudio.xml
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.ClientForm.resources
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.Properties.Resources.resources
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CopyComplete
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.exe
+C:\Users\Bartek\Desktop\Speaker Recognition\SpeakerRecognitionClient\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.pdb
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe.config
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.pdb
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\NAudio.dll
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\NAudio.xml
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.ClientForm.resources
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.Properties.Resources.resources
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CopyComplete
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.exe
+C:\Users\Bartek\Desktop\user-recognition-system-develop\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.pdb
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe.config
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.pdb
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\NAudio.dll
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\NAudio.xml
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.ClientForm.resources
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.Properties.Resources.resources
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CopyComplete
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.exe
+C:\Users\Bartek\Desktop\user-recognition-system-develop_b\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.pdb
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe.config
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.pdb
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\NAudio.dll
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\NAudio.xml
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.ClientForm.resources
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.Properties.Resources.resources
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CopyComplete
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.exe
+C:\Users\Bartek\Desktop\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.pdb
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe.config
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.exe
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\SpeakerRecognitionClient.pdb
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\NAudio.dll
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\bin\Debug\NAudio.xml
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csprojAssemblyReference.cache
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.ClientForm.resources
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.Properties.Resources.resources
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.GenerateResource.cache
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CoreCompileInputs.cache
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.csproj.CopyComplete
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.exe
+F:\Recognition Produkcja\SpeakerRecognitionClientOkienko\SpeakerRecognitionClient\obj\Debug\SpeakerRecognitionClient.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bartek\Desktop\dll_master\C#\AesLib\AesLib\bin\Debug\AesLib.dll
+C:\Users\Bartek\Desktop\dll_master\C#\AesLib\AesLib\bin\Debug\AesLib.pdb
+C:\Users\Bartek\Desktop\dll_master\C#\AesLib\AesLib\obj\Debug\AesLib.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\dll_master\C#\AesLib\AesLib\obj\Debug\AesLib.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\dll_master\C#\AesLib\AesLib\obj\Debug\AesLib.dll
+C:\Users\Bartek\Desktop\dll_master\C#\AesLib\AesLib\obj\Debug\AesLib.pdb
